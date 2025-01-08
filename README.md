@@ -1,4 +1,5 @@
 Introduction
+
 Welcome to the Hospital Management System project! This system is designed to streamline the administrative tasks of hospitals, including patient management, staff management, appointment scheduling, and more. It aims to improve efficiency and provide a better experience for both healthcare providers and patients.
 
 Features
