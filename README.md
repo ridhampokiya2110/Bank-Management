@@ -1,4 +1,5 @@
-Bank Management System 🏦
+Bank Management System 🏦  
+
 📝 Overview
 This is a simple, command-line based Bank Management System built in Java. It simulates the basic functionalities of a personal bank account, allowing a user to perform standard transactions in a secure, password-protected environment. This project is a great example of fundamental Object-Oriented Programming (OOP) concepts.
 
